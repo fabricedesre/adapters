@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["adapter_id!",""],["service_id!",""],["tag_id!",""]],"mod":[["api","Public-facing API"],["selector","Selecting one or more devices. Exposed through the API."],["services","Metadata on devices This module defines the metadata on devices and services."],["util","Various utilities"],["values","Values that may be sent to/received from devices"]]});

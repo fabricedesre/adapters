@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["GetterSelector","A selector for one or more getter channels."],["Period","An acceptable interval of time."],["ServiceSelector","A selector for one or more services."],["SetterSelector","A selector for one or more setter channels."]],"trait":[["SelectedBy",""]]});
